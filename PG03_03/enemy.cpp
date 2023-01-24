@@ -27,6 +27,7 @@ void Enemy::elimination() {
 	printf("—£’E\n");
 }
 
+
 void Enemy::Updata() {
 	printf("phase_:%d", phase_);
 
